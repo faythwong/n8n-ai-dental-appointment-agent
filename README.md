@@ -46,11 +46,11 @@ A patient requests a dental appointment for a preferred date and time.
 The agent checks availability, suggests alternatives if needed, books the slot, and logs the patient’s insurance details and concerns.
 
 ## Files
-- `workflow.json` — sanitized n8n workflow export
-- `workflow.png` — workflow screenshot
+- `Voice Agent for Dental Appointment Booking with Gemini AI.json` — sanitized n8n workflow export
+- `architecture.png` — workflow screenshot
 
 ## Import into n8n
-1. Download `workflow.json`
+1. Download `Voice Agent for Dental Appointment Booking with Gemini AI.json`
 2. Import it into n8n
 3. Connect your own credentials for:
    - Google Gemini
